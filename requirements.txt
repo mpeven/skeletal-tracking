@@ -1,0 +1,9 @@
+bidict==0.13.1
+jupyter==1.0.0
+matplotlib==2.0.2
+numpy==1.13.0
+opencv-python==3.2.0.7
+pandas==0.20.2
+scipy==0.19.1
+seaborn==0.7.1
+shapely==1.5.17.post1
